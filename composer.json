@@ -1,0 +1,7 @@
+{
+    "require": {
+        "twilio/sdk": "^6.10",
+        "google/cloud": "^0.138.0",
+        "google/cloud-firestore": "^1.14"
+    }
+}
